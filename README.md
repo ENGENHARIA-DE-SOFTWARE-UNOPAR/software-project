@@ -3,8 +3,8 @@
 <h4>Documentos auxiliares </h4>
 
 
-<a href="Roteiro%20aula%20pratica.pdf">Roteiro para a aula prática</a>
-<a href="main.pdf"> Relatório final da aula prática.</a> 
+<a href="Roteiro%20aula%20pratica.pdf">Roteiro para a aula prática</a> </br>
+<a href="main.pdf"> Relatório final da aula prática.</a> </br>
 
 <h5> Softwares usuais: </h5><p>
 <a href="https://cocalc.com/software">Cocal</a> <br/>
