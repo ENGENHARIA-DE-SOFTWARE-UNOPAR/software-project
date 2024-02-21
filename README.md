@@ -36,7 +36,9 @@
  Desenvolvedor |
 
  <h5>Desenvolvimento Dirigido por Funcionalidade (FDD) </h5>
- Enfatiza o uso de orientação a objetos.<br>
+ Enfatiza o uso de orientação a objetos. <br>
 
- * Concepção e Planejamento<br>
- * Construção<br> 
+ * Concepção e Planejamento <br>
+ * Construção <br>
+
+<h5> Produto viável mínimo(MVP) </h5>
