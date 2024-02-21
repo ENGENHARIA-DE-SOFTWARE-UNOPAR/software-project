@@ -12,3 +12,10 @@
 
  <a href="https://buy.stripe.com/test_14k5lPbFNfLx2hGdQQ">coffe</a> <br/>
 </p>
+
+
+
+<h5> Anotações diversas </h5>
+
+* 2001 Surge e propaga-se o manifesto ágil <br>
+* Empiricismo: Transparência & Adaptação & Inspeção <br>
