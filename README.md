@@ -34,3 +34,9 @@
  Analista de Teste |
  Redator técnico |
  Desenvolvedor |
+
+ <h5>Desenvolvimento Dirigido por Funcionalidade (FDD) </h5>
+ Enfatiza o uso de orientação a objetos.<br>
+
+ * Concepção e Planejamento<br>
+ * Construção<br> 
