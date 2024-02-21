@@ -41,4 +41,4 @@
  * Concepção e Planejamento <br>
  * Construção <br>
 
-<h5> Produto viável mínimo(MVP) </h5>
+<h5> Produto viável mínimo (MVP) </h5>
