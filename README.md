@@ -15,7 +15,17 @@
 
 
 
-<h5> Anotações diversas </h5>
+<h3> Anotações diversas </h3>
 
 * 2001 Surge e propaga-se o manifesto ágil <br>
 * Empiricismo: Transparência & Adaptação & Inspeção <br>
+
+<h5> Ciclo de projeto XP (Extreme Programming) </h5>
+
+* Planejamento <br>
+* Projeto <br>
+* Codificação (Poderá retornar a este) <br>
+* Teste (Teste de aceitação) <br>
+ Equipe de trabalho |
+ :-------: |
+ Gerente de projeto |
