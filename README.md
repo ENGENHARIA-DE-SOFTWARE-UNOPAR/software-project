@@ -30,3 +30,7 @@
  Equipe de trabalho |
  :-------: |
  Gerente de projeto |
+ Coach |
+ Analista de Teste |
+ Redator técnico |
+ Desenvolvedor |
