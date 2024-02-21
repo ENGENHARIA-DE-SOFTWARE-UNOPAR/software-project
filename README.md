@@ -26,6 +26,7 @@
 * Projeto <br>
 * Codificação (Poderá retornar a este) <br>
 * Teste (Teste de aceitação) <br>
+
  Equipe de trabalho |
  :-------: |
  Gerente de projeto |
