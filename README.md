@@ -42,3 +42,12 @@
  * Construção <br>
 
 <h5> Produto viável mínimo (MVP) </h5>
+* Uma versão mínima de funcionamento. Desenvolve, valida e depois aprimora
+
+<h5> Pivotagem </h5>
+Permite pivotar o desenvolvimento.<br>
+A longo prazo. <br>
+* Não é fazer pequenas mudanças; <br>
+* Estar preparado para perceber a necessidade de mudanças<br>
+* Algo que raramente é utilizado<br>
+Quando usar: Talvez quando a legislação mude.<br>
