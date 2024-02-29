@@ -51,3 +51,13 @@ A longo prazo. <br>
 * Estar preparado para perceber a necessidade de mudanças<br>
 * Algo que raramente é utilizado<br>
 Quando usar: Talvez quando a legislação mude.<br>
+
+
+
+
+
+
+
+- PMBOK
+
+- 12 principios do ágil
