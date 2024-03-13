@@ -28,7 +28,7 @@
 * Teste (Teste de aceitação) <br>
 
  Equipe de trabalho |
- :-------: |
+ :-------: |word
  Gerente de projeto |
  Coach |
  Analista de Teste |
